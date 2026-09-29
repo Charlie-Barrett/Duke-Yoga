@@ -1,0 +1,7 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/reviews", "destination": "/about-us#reviews", "permanent": true }
+  ]
+}
